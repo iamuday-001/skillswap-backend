@@ -2,7 +2,7 @@
 import express from "express";
 import JoinRequest from "../models/joinRequest.js";
 import Idea from "../models/idea.js";
-import User from "../models/user.js";
+import User from "../models/User.js";
 import Team from "../models/team.js";
 import Notification from "../models/notification.js";
 
